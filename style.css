@@ -1,0 +1,75 @@
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+} 
+
+#p {
+    background-color: blue;
+    border-bottom: 5px solid coral; 
+}
+
+#p h1 {
+   color: greenyellow;
+    font-family: cursive;
+    padding: 15px 0;
+    display: inline-block;
+}
+
+#p .l{
+   color: white;
+}
+
+.n {
+  float: right;
+}
+
+.n li {
+    display: inline;
+}
+
+.n li a {
+    text-decoration: none;
+    color: wheat;
+    font-family: cursive;
+    padding: 10px;
+    display: inline-block;
+}
+
+.n li a:hover {
+    color: chartreuse;
+}
+
+.v {
+    color: red;
+    
+}
+
+.c {
+    width: 70%;
+    margin: auto;
+    color: white;
+    font-family: cursive;
+    text-align: center; 
+}
+
+#b {
+    height: 60vh;
+    background-size: cover;
+    background-image: url(10b13092-dcb1-4ae3-ad94-1b999179b4f5.jpeg);
+    text-align: center;
+    color: blue;
+    font-family: cursive;
+}
+
+#b h1 {
+    font-size: 50px;
+    margin-bottom: 15px;
+    padding-top: 150px; 
+}
+
+#io {
+    display: inline-block;
+    margin: 10px;
+    color: wheat;
+    background-color: blueviolet;
+}
